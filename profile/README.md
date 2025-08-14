@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- Professional Header with Black/Orange Branding -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=Resonance%20Studio&fontSize=70&fontColor=FF6600&animation=fadeIn&fontAlignY=40&desc=Pioneering%20Autonomous%20Intelligence&descSize=24&descAlignY=65&descColor=FF8C00">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=300&section=header&text=Resonance%20Studio&fontSize=70&fontColor=FF6600&animation=fadeIn&fontAlignY=40&desc=Pioneering%20Autonomous%20Intelligence&descSize=24&descAlignY=65&descColor=FF8C00" alt="Resonance Studio">
-</picture>
+[<img src="https://resonance-studio-media.s3.eu-central-1.amazonaws.com/name-logo.svg" alt="Resonance Studio logo" width="420">](https://resonance.studio)
 
 <br>
 
